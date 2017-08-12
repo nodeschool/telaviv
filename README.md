@@ -1,2 +1,9 @@
-# telaviv
-Repo for organizing the Tel Aviv nodeschools https://nodeschool.github.io/telaviv
+# NodeSchool Tel Aviv Event
+
+![logo](https://github.com/EladKeyshawn/nodeschoolTLV/blob/master/resources/logo.png)
+
+## Ideas
+
+
+## Organizers
+- Elad Keyshawn <elad.keyshawn@gmail.com>
